@@ -91,7 +91,7 @@ const App: React.FC = () => {
                     <SkillPill key={index} skill={skill} />
                   ))}
                 </div>
-              </section>
+              </Section>
               
               <Section title={content.strengths.title}>
                 <ul className="list-disc list-inside space-y-2 text-base">
@@ -99,7 +99,7 @@ const App: React.FC = () => {
                     <li key={index}>{strength}</li>
                   ))}
                 </ul>
-              </section>
+              </Section>
             </div>
           </main>
         </div>
