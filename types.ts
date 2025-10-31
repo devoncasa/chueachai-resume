@@ -44,6 +44,7 @@ export interface ResumeContent {
   workHistory: WorkExperience[];
   skills: Skills;
   strengths: Strengths;
+  printButtonText: string;
   languageButton: {
     en: string;
     th: string;

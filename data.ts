@@ -8,18 +8,18 @@ export const resumeData: ResumeData = {
     birthdayTitle: "วันเกิด",
     contactTitle: "ข้อมูลติดต่อ",
     contact: {
-      phone: "โทร. 084-384-1829",
+      phone: "โทร./LINE/WhatsApp: 084-384-1829",
       address: "141 ซอยวงศ์สว่าง 4, วงศ์สว่าง, บางซื่อ, กรุงเทพมหานคร",
-      email: "k-bkk@hotmail.com",
+      email: "อีเมล: alexiels141@gmail.com",
     },
     addressTitle: "ที่อยู่",
     emailTitle: "อีเมล",
     educationTitle: "ประวัติการศึกษา",
     education: [
       {
-        degree: "สาขาวิทยาศาสตร์ (ไม่จบการศึกษา)",
-        school: "มหาวิทยาลัยราชภัฏสุนันทา",
-        year: "พ.ศ. 2540 - 2541"
+        degree: "สาขาวิชาวิทยาศาสตร์และเทคโนโลยีการอาหาร (ไม่จบการศึกษา)",
+        school: "คณะวิทยาศาสตร์และเทคโนโลยี, มหาวิทยาลัยราชภัฏ สวนสุนันทา",
+        year: "ปีการศึกษา 2541-2542"
       },
       {
         degree: "มัธยมศึกษาปีที่ 6 (วิทย์-คณิต)",
@@ -49,7 +49,7 @@ export const resumeData: ResumeData = {
       },
       {
         role: "COMMIS 3",
-        kitchen: "",
+        kitchen: "ครัวเมน (Main Kitchen)",
         company: "ร้านอาหาร “พลู” (Plu Restaurant)",
         location: "",
         period: "พ.ศ. 2566 (ช่วงต้นปี)",
@@ -92,7 +92,7 @@ export const resumeData: ResumeData = {
         "แล่ปลากระพงและแซลมอน",
         "ทำแป้งโดว์ Brioche, White Bread และ Pizza",
         "Microsoft Office และ Canva พื้นฐาน",
-        "มีประสบการณ์ดูแลผู้สูงอายุ",
+        "มีความชำนาญในมาตรฐานความปลอดภัยของอาหาร (HACCP) และการจัดการสินค้าคงคลัง (FIFO)",
         "เข้าใจศัพท์เทคนิคในครัว 5 ดาว",
         "สื่อสารภาษาอังกฤษในครัวได้"
       ]
@@ -105,6 +105,7 @@ export const resumeData: ResumeData = {
         "พร้อมเรียนรู้และพัฒนาทักษะในสายอาชีพครัวอย่างต่อเนื่อง"
       ]
     },
+    printButtonText: "พิมพ์เรซูเม่",
     languageButton: {
       en: "English",
       th: "ภาษาไทย",
@@ -117,18 +118,18 @@ export const resumeData: ResumeData = {
     birthdayTitle: "Date of Birth",
     contactTitle: "Contact Information",
     contact: {
-      phone: "Tel. +66(0)84-384-1829",
+      phone: "Tel./LINE/WhatsApp.: +66(0)84-384-1829",
       address: "141 Soi Wongsawang 4, Wongsawang, Bang Sue, Bangkok",
-      email: "k-bkk@hotmail.com",
+      email: "Email.: alexiels141@gmail.com",
     },
     addressTitle: "Address",
     emailTitle: "Email",
     educationTitle: "Educational Background",
     education: [
       {
-        degree: "Science Major (Incomplete)",
-        school: "Suan Sunandha Rajhat University",
-        year: "1997 - 1998"
+        degree: "Major in Food Science and Technology (Incomplete)",
+        school: "Faculty of Science and Technology, Suan Sunandha Rajabhat University",
+        year: "1998 - 1999"
       },
       {
         degree: "High School Diploma (Science-Math)",
@@ -158,7 +159,7 @@ export const resumeData: ResumeData = {
       },
       {
         role: "COMMIS 3",
-        kitchen: "",
+        kitchen: "Main Kitchen",
         company: "Plu Restaurant",
         location: "",
         period: "Early 2023",
@@ -201,7 +202,7 @@ export const resumeData: ResumeData = {
         "Can fillet sea bass and salmon",
         "Can make Brioche, White Bread, and Pizza dough",
         "Basic Microsoft Office and Canva",
-        "Have experience cook for family and take care old parents",
+        "Proficient in food safety standards (HACCP) and inventory management (FIFO).",
         "Understand English words for 5-star kitchen",
         "Can talk English for work in kitchen"
       ]
@@ -214,7 +215,8 @@ export const resumeData: ResumeData = {
         "Ready to learn and improve skills for chef career"
       ]
     },
-     languageButton: {
+    printButtonText: "Print Resume",
+    languageButton: {
       en: "English",
       th: "Thai",
     }
