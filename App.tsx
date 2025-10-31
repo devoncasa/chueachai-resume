@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { useState } from 'react';
 import type { WorkExperience, ResumeContent, EducationItem } from './types';
@@ -125,7 +126,7 @@ const App: React.FC = () => {
                     <li key={index}>{strength}</li>
                   ))}
                 </ul>
-              </section>
+              </Section>
             </div>
           </main>
         </div>
