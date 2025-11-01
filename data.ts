@@ -146,15 +146,15 @@ export const resumeData: ResumeData = {
         location: "Queen Sirikit National Convention Center",
         period: "2023 – Present",
         responsibilities: [
-          "Planned and controlled ingredient ordering for all kitchen sections to ensure smooth daily operations.",
-          "Prepared pasta (par-cooked), meats, and seafood, ensuring accurate portioning and consistent quality.",
-          "Cooked various components such as sauces, soups, dips, and side dishes, strictly adhering to standard recipes.",
-          "Managed ingredient labeling and storage according to FIFO (First-In, First-Out) and shelf life procedures.",
-          "Assisted the Head Chef with daily mise en place to prepare for peak service hours.",
-          "Coordinated with hot and cold kitchen teams to facilitate seamless workflow and timely service.",
-          "Ensured kitchen hygiene and food safety standards were maintained in accordance with HACCP principles.",
-          "Initiated improvements in food preparation processes and provided guidance to junior staff as needed.",
-          "Demonstrated a strong desire to learn new recipes, techniques, and presentation skills to advance professionally."
+          "Plan and control ingredient ordering for all kitchen sections to ensure smooth daily operations.",
+          "Prepare pasta (par-cooked), meats, and seafood, ensuring accurate portioning and consistent quality.",
+          "Cook various components such as sauces, soups, dips, and side dishes, strictly adhering to standard recipes.",
+          "Manage ingredient labeling and storage according to FIFO (First-In, First-Out) and shelf life procedures.",
+          "Assist the Head Chef with daily mise en place to prepare for peak service hours.",
+          "Coordinate with hot and cold kitchen teams to facilitate seamless workflow and timely service.",
+          "Ensure kitchen hygiene and food safety standards are maintained in accordance with HACCP principles.",
+          "Initiate improvements in food preparation processes and provide guidance to junior staff as needed.",
+          "Demonstrate a strong desire to learn new recipes, techniques, and presentation skills to advance professionally."
         ]
       },
       {
