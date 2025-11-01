@@ -146,15 +146,15 @@ export const resumeData: ResumeData = {
         location: "Queen Sirikit National Convention Center",
         period: "2023 – Present",
         responsibilities: [
-          "Plan and control order ingredient for all kitchen parts to make work good every day.",
-          "Prepare pasta (half-cooked), meat, and seafood with correct portion and same quality.",
-          "Cook sauce, soup, dip, side dish and follow standard recipe very strong.",
-          "Take care label and storage for ingredient with FIFO and Shelf Life system.",
-          "Support Head Chef for daily mise en place and prepare menu for busy time.",
-          "Talk with cold and hot kitchen team for make work go smooth and on time service.",
-          "Check kitchen clean and food safety by HACCP rule.",
-          "Try to make food prep better and help junior staff when need.",
-          "Show I want to learn new recipe, new technique, and how to make food look nice for be chef in future."
+          "Planned and controlled ingredient ordering for all kitchen sections to ensure smooth daily operations.",
+          "Prepared pasta (par-cooked), meats, and seafood, ensuring accurate portioning and consistent quality.",
+          "Cooked various components such as sauces, soups, dips, and side dishes, strictly adhering to standard recipes.",
+          "Managed ingredient labeling and storage according to FIFO (First-In, First-Out) and shelf life procedures.",
+          "Assisted the Head Chef with daily mise en place to prepare for peak service hours.",
+          "Coordinated with hot and cold kitchen teams to facilitate seamless workflow and timely service.",
+          "Ensured kitchen hygiene and food safety standards were maintained in accordance with HACCP principles.",
+          "Initiated improvements in food preparation processes and provided guidance to junior staff as needed.",
+          "Demonstrated a strong desire to learn new recipes, techniques, and presentation skills to advance professionally."
         ]
       },
       {
@@ -164,9 +164,9 @@ export const resumeData: ResumeData = {
         location: "",
         period: "Early 2023",
         responsibilities: [
-            "Prepare ingredient, weigh by recipe, and keep by portion.",
-            "Put label for Shelf Life correct.",
-            "Keep quality standard of food and clean in work area.",
+          "Prepared and weighed ingredients according to recipes, and stored them in designated portions.",
+          "Accurately labeled ingredients with shelf life information.",
+          "Maintained high standards of food quality and cleanliness in the work area.",
         ]
       },
       {
@@ -176,10 +176,10 @@ export const resumeData: ResumeData = {
         location: "Central Embassy Branch",
         period: "2021 – 2023",
         responsibilities: [
-          "Manage ingredient and prepare food follow standard recipe of shop.",
-          "Make food and plate in Fine Dining style.",
-          "Plan order and stock ingredient for selling enough.",
-          "Manage ingredient by First In First Out (FIFO)."
+          "Managed ingredients and prepared dishes according to the restaurant's standard recipes.",
+          "Assembled and plated dishes in a fine dining style.",
+          "Planned and managed ingredient ordering and inventory to ensure adequate stock for service.",
+          "Managed inventory using the First-In, First-Out (FIFO) principle."
         ]
       },
       {
@@ -189,30 +189,30 @@ export const resumeData: ResumeData = {
         location: "Bang Sue Area",
         period: "2018 – 2021",
         responsibilities: [
-          "Look after prepare ingredient and cook main food like Pad Thai, Fried Rice, Tom Yum.",
-          "Responsible for prepare fresh ingredient every day.",
-          "Look after clean in work area and kitchen tool.",
-          "Learn about food cost and make portion."
+          "Oversaw ingredient preparation and cooked main dishes such as Pad Thai, Fried Rice, and Tom Yum.",
+          "Was responsible for the daily preparation of fresh ingredients.",
+          "Maintained the cleanliness of the work area and kitchen equipment.",
+          "Gained foundational knowledge in food cost calculation and portion control."
         ]
       }
     ],
     skills: {
       title: "Skills & Competencies",
       list: [
-        "Can fillet sea bass and salmon",
-        "Can make Brioche, White Bread, and Pizza dough",
-        "Basic Microsoft Office and Canva",
+        "Skilled in filleting sea bass and salmon.",
+        "Experienced in preparing Brioche, white bread, and pizza dough.",
+        "Proficient with basic functions of Microsoft Office and Canva.",
         "Proficient in food safety standards (HACCP) and inventory management (FIFO).",
-        "Understand English words for 5-star kitchen",
-        "Can talk English for work in kitchen"
+        "Familiar with professional kitchen terminology used in 5-star environments.",
+        "Able to communicate effectively in English within a kitchen setting."
       ]
     },
     strengths: {
       title: "Key Attributes",
       list: [
-        "Am hardworking, patient, and have high responsible",
-        "Work good with team, have discipline and careful",
-        "Ready to learn and improve skills for chef career"
+        "Hardworking, patient, and highly responsible.",
+        "A disciplined and meticulous team player.",
+        "Eager to learn and continuously develop skills for a career as a professional chef."
       ]
     },
     printButtonText: "Print Resume",
