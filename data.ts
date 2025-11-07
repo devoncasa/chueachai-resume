@@ -48,28 +48,28 @@ export const resumeData: ResumeData = {
         ]
       },
       {
-        role: "COMMIS 3",
-        kitchen: "ครัวเมน (Main Kitchen)",
-        company: "ร้านอาหาร “พลู” (Plu Restaurant)",
-        location: "",
-        period: "พ.ศ. 2566 (ช่วงต้นปี)",
-        responsibilities: [
-            "จัดเตรียมวัตถุดิบ ชั่งตวงตามสูตร และเก็บตาม Portion",
-            "ติดฉลากตาม Shelf Life อย่างถูกต้อง",
-            "รักษามาตรฐานคุณภาพของอาหารและความสะอาดในพื้นที่ทำงาน",
-        ]
-      },
-      {
         role: "COMMIS 2",
         kitchen: "ครัวเย็น",
         company: "Audrey Café & Bistro",
         location: "สาขา Central Embassy",
-        period: "พ.ศ. 2564 – 2566",
+        period: "พ.ศ. 2566 (ช่วงต้นปี)",
         responsibilities: [
             "จัดการวัตถุดิบและเตรียมอาหารตามสูตรมาตรฐานของร้าน",
             "ประกอบอาหารพร้อมจัดจานตามรูปแบบ Fine Dining",
             "วางแผนสั่งและสต๊อกวัตถุดิบให้เพียงพอในแต่ละรอบการขาย",
             "บริหารวัตถุดิบตามหลัก First In First Out (FIFO)",
+        ]
+      },
+      {
+        role: "COMMIS 3",
+        kitchen: "ครัวเมน (Main Kitchen)",
+        company: "ร้านอาหาร “พลู” (Plu Restaurant)",
+        location: "",
+        period: "พ.ศ. 2564 – 2566",
+        responsibilities: [
+            "จัดเตรียมวัตถุดิบ ชั่งตวงตามสูตร และเก็บตาม Portion",
+            "ติดฉลากตาม Shelf Life อย่างถูกต้อง",
+            "รักษามาตรฐานคุณภาพของอาหารและความสะอาดในพื้นที่ทำงาน",
         ]
       },
       {
@@ -158,28 +158,28 @@ export const resumeData: ResumeData = {
         ]
       },
       {
-        role: "COMMIS 3",
-        kitchen: "Main Kitchen",
-        company: "Plu Restaurant",
-        location: "",
-        period: "Early 2023",
-        responsibilities: [
-          "Prepared and weighed ingredients according to recipes, and stored them in designated portions.",
-          "Accurately labeled ingredients with shelf life information.",
-          "Maintained high standards of food quality and cleanliness in the work area.",
-        ]
-      },
-      {
         role: "COMMIS 2",
         kitchen: "Cold Kitchen",
         company: "Audrey Café & Bistro",
         location: "Central Embassy Branch",
-        period: "2021 – 2023",
+        period: "Early 2023",
         responsibilities: [
           "Managed ingredients and prepared dishes according to the restaurant's standard recipes.",
           "Assembled and plated dishes in a fine dining style.",
           "Planned and managed ingredient ordering and inventory to ensure adequate stock for service.",
           "Managed inventory using the First-In, First-Out (FIFO) principle."
+        ]
+      },
+      {
+        role: "COMMIS 3",
+        kitchen: "Main Kitchen",
+        company: "Plu Restaurant",
+        location: "",
+        period: "2021 – 2023",
+        responsibilities: [
+          "Prepared and weighed ingredients according to recipes, and stored them in designated portions.",
+          "Accurately labeled ingredients with shelf life information.",
+          "Maintained high standards of food quality and cleanliness in the work area.",
         ]
       },
       {
